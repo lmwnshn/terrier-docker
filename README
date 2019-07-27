@@ -1,0 +1,12 @@
+# terrier-docker
+
+Host (Windows/Linux), build and debug via GDB on (Docker Linux).
+
+## Docker
+
+1. `docker-compose up -d` to launch it in the background.
+2. `docker-compose stop` to stop.
+
+## CLion
+
+Use the Toolchains -> Remote Host feature.
